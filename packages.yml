@@ -1,2 +1,2 @@
 packages:
-  - git: 'https://github.com/akerone/dbt-deps-poc-p2.git'
+  - git: 'https://github.com/akerone/p2.git'
